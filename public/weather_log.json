@@ -888,5 +888,10 @@
     "date": "2026-05-05T14:45",
     "weather_code": 0,
     "temperature": 21.1
+  },
+  {
+    "date": "2026-05-05T19:00",
+    "weather_code": 0,
+    "temperature": 16.7
   }
 ]
