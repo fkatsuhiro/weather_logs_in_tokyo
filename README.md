@@ -71,4 +71,4 @@ export default defineConfig([
   },
 ])
 ```
-# weather_automation_Tokyo
+# weather_logs_in_tokyo
