@@ -2,7 +2,7 @@ name: Update Weather and Deploy React App
 
 on:
   schedule:
-    - cron: '0 0,3,8 * * *' # 日本時間 9:00, 12:00, 17:00
+    - cron: '0 0,3,6,8,13 * * *' # 日本時間 9:00, 12:00, 15:00, 17:00, 22:00
   workflow_dispatch: # 手動実行ボタン
 
 permissions:
