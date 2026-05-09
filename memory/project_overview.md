@@ -8,7 +8,7 @@ Tokyo weather dashboard auto-updated via GitHub Actions (Open-Meteo API → publ
 
 **Why:** Automated data pipeline; frontend is purely static, no API calls from browser.
 
-**Stack:** React 19, TypeScript 5.9 (strict), Vite 7, pnpm, deployed to `/weather_automation_Tokyo/`.
+**Stack:** React 19, TypeScript 5.9 (strict), Vite 7, pnpm, deployed to `/weather_logs_in_tokyo/`.
 
 **Test setup (added 2026-05-09):**
 - Vitest 4 + @testing-library/react — unit tests under `src/**/*.test.ts`

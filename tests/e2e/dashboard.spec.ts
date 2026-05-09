@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 
 test.describe('天気ダッシュボード', () => {
   test.beforeEach(async ({ page }) => {
-    await page.goto('/weather_automation_Tokyo/');
+    await page.goto('/weather_logs_in_tokyo/');
   });
 
   test('ページタイトルが表示される', async ({ page }) => {
