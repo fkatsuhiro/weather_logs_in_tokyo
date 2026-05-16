@@ -1088,5 +1088,10 @@
     "date": "2026-05-16T18:45",
     "weather_code": 0,
     "temperature": 20.2
+  },
+  {
+    "date": "2026-05-16T23:15",
+    "weather_code": 0,
+    "temperature": 15.8
   }
 ]
