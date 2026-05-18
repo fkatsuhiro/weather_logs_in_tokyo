@@ -1118,5 +1118,10 @@
     "date": "2026-05-18T11:45",
     "weather_code": 0,
     "temperature": 25.3
+  },
+  {
+    "date": "2026-05-18T15:45",
+    "weather_code": 0,
+    "temperature": 25.5
   }
 ]
