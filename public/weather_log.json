@@ -1178,5 +1178,10 @@
     "date": "2026-05-21T11:45",
     "weather_code": 61,
     "temperature": 20.7
+  },
+  {
+    "date": "2026-05-21T15:45",
+    "weather_code": 51,
+    "temperature": 16.4
   }
 ]
