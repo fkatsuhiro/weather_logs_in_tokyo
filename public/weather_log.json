@@ -1243,5 +1243,10 @@
     "date": "2026-05-24T15:30",
     "weather_code": 2,
     "temperature": 20.5
+  },
+  {
+    "date": "2026-05-24T18:45",
+    "weather_code": 2,
+    "temperature": 19.6
   }
 ]
