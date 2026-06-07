@@ -1478,5 +1478,10 @@
     "date": "2026-06-07T17:45",
     "weather_code": 51,
     "temperature": 19.4
+  },
+  {
+    "date": "2026-06-07T23:45",
+    "weather_code": 63,
+    "temperature": 18.7
   }
 ]
