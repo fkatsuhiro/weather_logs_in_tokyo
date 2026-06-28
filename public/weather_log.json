@@ -1818,5 +1818,10 @@
     "date": "2026-06-28T17:45",
     "weather_code": 51,
     "temperature": 20.6
+  },
+  {
+    "date": "2026-06-28T23:45",
+    "weather_code": 51,
+    "temperature": 20.3
   }
 ]
