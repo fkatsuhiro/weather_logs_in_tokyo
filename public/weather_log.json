@@ -1963,5 +1963,10 @@
     "date": "2026-07-08T14:45",
     "weather_code": 3,
     "temperature": 28.1
+  },
+  {
+    "date": "2026-07-08T17:15",
+    "weather_code": 1,
+    "temperature": 26.2
   }
 ]
