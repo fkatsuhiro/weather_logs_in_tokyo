@@ -1983,5 +1983,10 @@
     "date": "null",
     "weather_code": null,
     "temperature": null
+  },
+  {
+    "date": "2026-07-09T19:45",
+    "weather_code": 0,
+    "temperature": 25.0
   }
 ]
