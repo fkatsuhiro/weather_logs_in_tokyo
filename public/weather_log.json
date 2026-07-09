@@ -1973,5 +1973,10 @@
     "date": "2026-07-09T00:15",
     "weather_code": 2,
     "temperature": 22.6
+  },
+  {
+    "date": "2026-07-09T11:30",
+    "weather_code": 0,
+    "temperature": 28.1
   }
 ]
