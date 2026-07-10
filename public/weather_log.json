@@ -1998,5 +1998,10 @@
     "date": "2026-07-10T11:30",
     "weather_code": 0,
     "temperature": 29.8
+  },
+  {
+    "date": "2026-07-10T15:30",
+    "weather_code": 0,
+    "temperature": 29.6
   }
 ]
