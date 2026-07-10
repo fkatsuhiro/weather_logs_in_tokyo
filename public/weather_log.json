@@ -2003,5 +2003,10 @@
     "date": "2026-07-10T15:30",
     "weather_code": 0,
     "temperature": 29.6
+  },
+  {
+    "date": "2026-07-10T19:45",
+    "weather_code": 0,
+    "temperature": 24.7
   }
 ]
