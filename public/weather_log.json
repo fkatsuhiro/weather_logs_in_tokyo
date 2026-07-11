@@ -2013,5 +2013,10 @@
     "date": "2026-07-11T00:15",
     "weather_code": 0,
     "temperature": 23.4
+  },
+  {
+    "date": "2026-07-11T11:15",
+    "weather_code": 2,
+    "temperature": 29.6
   }
 ]
