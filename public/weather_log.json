@@ -2048,5 +2048,10 @@
     "date": "2026-07-12T14:45",
     "weather_code": 3,
     "temperature": 28.2
+  },
+  {
+    "date": "2026-07-12T17:00",
+    "weather_code": 2,
+    "temperature": 27.5
   }
 ]
