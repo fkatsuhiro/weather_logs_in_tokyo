@@ -2258,5 +2258,10 @@
     "date": "2026-07-22T14:45",
     "weather_code": 0,
     "temperature": 34.8
+  },
+  {
+    "date": "2026-07-22T17:15",
+    "weather_code": 0,
+    "temperature": 33.5
   }
 ]
