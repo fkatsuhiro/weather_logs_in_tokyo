@@ -2318,5 +2318,10 @@
     "date": "null",
     "weather_code": null,
     "temperature": null
+  },
+  {
+    "date": "2026-07-25T17:00",
+    "weather_code": 61,
+    "temperature": 28.4
   }
 ]
