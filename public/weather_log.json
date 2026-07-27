@@ -2363,5 +2363,10 @@
     "date": "2026-07-27T20:15",
     "weather_code": 3,
     "temperature": 25.0
+  },
+  {
+    "date": "2026-07-28T00:30",
+    "weather_code": 53,
+    "temperature": 23.0
   }
 ]
