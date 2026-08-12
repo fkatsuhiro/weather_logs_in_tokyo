@@ -2708,5 +2708,10 @@
     "date": "2026-08-12T18:00",
     "weather_code": 1,
     "temperature": 26.2
+  },
+  {
+    "date": "2026-08-12T23:15",
+    "weather_code": 1,
+    "temperature": 23.5
   }
 ]
