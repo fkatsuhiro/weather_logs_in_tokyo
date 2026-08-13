@@ -2728,5 +2728,10 @@
     "date": "2026-08-13T16:15",
     "weather_code": 63,
     "temperature": 25.5
+  },
+  {
+    "date": "2026-08-13T18:00",
+    "weather_code": 63,
+    "temperature": 24.7
   }
 ]
