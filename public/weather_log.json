@@ -2753,5 +2753,10 @@
     "date": "2026-08-14T16:15",
     "weather_code": 53,
     "temperature": 26.7
+  },
+  {
+    "date": "2026-08-14T18:00",
+    "weather_code": 53,
+    "temperature": 25.8
   }
 ]
