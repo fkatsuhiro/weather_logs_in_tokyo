@@ -3078,5 +3078,10 @@
     "date": "2026-08-28T17:45",
     "weather_code": 2,
     "temperature": 30.2
+  },
+  {
+    "date": "2026-08-29T07:45",
+    "weather_code": 51,
+    "temperature": 21.6
   }
 ]
