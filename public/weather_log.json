@@ -3228,5 +3228,10 @@
     "date": "2026-09-06T11:30",
     "weather_code": 55,
     "temperature": 19.7
+  },
+  {
+    "date": "2026-09-06T16:30",
+    "weather_code": 61,
+    "temperature": 21.4
   }
 ]
