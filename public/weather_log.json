@@ -3348,5 +3348,10 @@
     "date": "2026-09-12T16:30",
     "weather_code": 2,
     "temperature": 25.1
+  },
+  {
+    "date": "2026-09-12T20:45",
+    "weather_code": 3,
+    "temperature": 22.5
   }
 ]
