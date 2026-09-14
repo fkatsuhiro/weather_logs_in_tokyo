@@ -3378,5 +3378,10 @@
     "date": "2026-09-14T12:00",
     "weather_code": 0,
     "temperature": 30.7
+  },
+  {
+    "date": "2026-09-14T20:30",
+    "weather_code": 2,
+    "temperature": 25.6
   }
 ]
