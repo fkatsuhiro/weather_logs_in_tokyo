@@ -3523,5 +3523,10 @@
     "date": "2026-09-23T19:30",
     "weather_code": 51,
     "temperature": 19.5
+  },
+  {
+    "date": "2026-09-24T02:30",
+    "weather_code": 1,
+    "temperature": 19.1
   }
 ]
