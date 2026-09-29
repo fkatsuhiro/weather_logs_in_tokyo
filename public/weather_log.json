@@ -3603,5 +3603,10 @@
     "date": "2026-09-29T04:45",
     "weather_code": 63,
     "temperature": 21.0
+  },
+  {
+    "date": "2026-09-29T13:00",
+    "weather_code": 63,
+    "temperature": 20.7
   }
 ]
