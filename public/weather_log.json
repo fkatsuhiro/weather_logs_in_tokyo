@@ -3663,5 +3663,10 @@
     "date": "2026-10-03T03:00",
     "weather_code": 3,
     "temperature": 18.0
+  },
+  {
+    "date": "2026-10-03T12:30",
+    "weather_code": 0,
+    "temperature": 23.0
   }
 ]
