@@ -3698,5 +3698,10 @@
     "date": "2026-10-05T12:45",
     "weather_code": 2,
     "temperature": 21.1
+  },
+  {
+    "date": "2026-10-05T22:15",
+    "weather_code": 2,
+    "temperature": 19.6
   }
 ]
