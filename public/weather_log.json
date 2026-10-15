@@ -3833,5 +3833,10 @@
     "date": "2026-10-15T12:00",
     "weather_code": 1,
     "temperature": 21.0
+  },
+  {
+    "date": "2026-10-15T19:45",
+    "weather_code": 1,
+    "temperature": 18.7
   }
 ]
