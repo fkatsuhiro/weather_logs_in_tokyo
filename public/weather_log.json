@@ -3943,5 +3943,10 @@
     "date": "2026-10-22T02:45",
     "weather_code": 1,
     "temperature": 20.6
+  },
+  {
+    "date": "2026-10-22T12:00",
+    "weather_code": 1,
+    "temperature": 20.9
   }
 ]
