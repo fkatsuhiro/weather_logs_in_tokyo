@@ -3983,5 +3983,10 @@
     "date": "2026-10-24T19:00",
     "weather_code": 63,
     "temperature": 15.4
+  },
+  {
+    "date": "2026-10-25T01:15",
+    "weather_code": 2,
+    "temperature": 15.8
   }
 ]
