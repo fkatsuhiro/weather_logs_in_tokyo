@@ -4173,5 +4173,10 @@
     "date": "2026-11-08T13:00",
     "weather_code": 0,
     "temperature": 16.4
+  },
+  {
+    "date": "2026-11-08T21:30",
+    "weather_code": 1,
+    "temperature": 11.8
   }
 ]
