@@ -4288,5 +4288,10 @@
     "date": "2026-11-22T22:45",
     "weather_code": 0,
     "temperature": 7.2
+  },
+  {
+    "date": "2026-11-23T14:30",
+    "weather_code": 0,
+    "temperature": 13.0
   }
 ]
